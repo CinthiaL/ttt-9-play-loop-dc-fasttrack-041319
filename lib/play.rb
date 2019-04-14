@@ -41,3 +41,5 @@ def play(board)
   turn(board)
   until i == 9
   i += 1
+end
+end
