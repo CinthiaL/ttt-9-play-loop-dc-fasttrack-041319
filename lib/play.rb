@@ -39,7 +39,6 @@ end
 def play(board)
   i = 0 
   turn(board)
-  display_board(board)
   until i == 9
   i += 1
 end
